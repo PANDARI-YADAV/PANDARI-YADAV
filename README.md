@@ -4,7 +4,7 @@
 - 🌱 I'm  computer science student in SJBIT INSTITUTE OF TECHNOLOGY Bengaluru 
 - 💞️ I’m looking for internship
 - 📫 for more details follow on Linkdin :- @Pandari Yadav
-  
+- 👨‍💻 Check my progress here :-https://leetcode.com/u/PandariYadav/
 
 <!---
 PANDARI-YADAV/PANDARI-YADAV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
