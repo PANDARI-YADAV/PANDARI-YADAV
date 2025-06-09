@@ -2,20 +2,21 @@
 
 🎓 Computer Science Engineering Student | SJB Institute of Technology, Bengaluru  
 📅 Expected Graduation: 2026  
-💼 Aspiring Full-Stack Developer | Passionate about Problem Solving  
+💼 Aspiring Full-Stack & Backend Developer | Passionate about Problem Solving  
 
 ---
 
 ## 🚀 About Me
-- 🔧 Skilled in building full-stack web applications using **Node.js, Express, MongoDB, EJS, and REST APIs**
-- 💻 Strong grip on **Java, OOP concepts**, and **Data Structures & Algorithms** (320+ problems on LeetCode)
-- 🌍 Experienced in working with APIs like **Mapbox** and **Cloudinary** for real-world features
-- 🌱 Always learning, always building
+- 💻 Skilled in **Java**, with strong knowledge of **OOP**, **Data Structures & Algorithms**, and core CS fundamentals
+- 🧰 Experienced with **Java Swing, JDBC, Hibernate, Spring Boot** for building scalable backend and desktop applications
+- 🌐 Proficient in full-stack development using **Node.js, Express.js, MongoDB, EJS**, and REST APIs
+- 🌍 Integrated real-world APIs like **Mapbox** and **Cloudinary** into live projects
+- 🌱 Always learning, building, and sharpening backend logic
 
 ---
 
 ## 🛠️ Notable Project
-- 🔹 **Wanderlust** – A travel booking platform with live maps, reviews, image uploads, secure CRUD, and user authentication (MERN Stack)
+- 🔹 **Wanderlust** – A travel booking platform with live maps, user-auth, secure CRUD for listings/reviews, image uploads via Cloudinary, and real-time geolocation using Mapbox (MERN Stack)
 
 ---
 
@@ -28,4 +29,4 @@
 
 ## 📫 Let’s Connect
 - 🔗 [LinkedIn – Pandari Yadav](https://www.linkedin.com/in/pandari2004)
-- 💼 Looking for internship opportunities in Web Development & Backend Engineering
+- 💼 Looking for internship opportunities in **Java Backend** or **Full-Stack Web Development**
