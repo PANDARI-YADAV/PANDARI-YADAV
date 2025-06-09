@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @PANDARI-YADAV
-- 👨‍💻 Mastery in HTML5 and CSS , JAVA , Data Structure and Algorithms ,BASICS OF JAVASRICPT
-- 👀 I’m interested in  Web development and more intrested in DSA 
-- 🌱 I'm  computer science student in SJBIT INSTITUTE OF TECHNOLOGY Bengaluru 
-- 💞️ I’m looking for internship
-- 📫 for more details follow on Linkdin :- @Pandari Yadav
-- 👨‍💻 Check my progress here :-https://leetcode.com/u/PandariYadav/
+# 👋 Hey there, I'm Pandari Yadav
 
-<!---
-PANDARI-YADAV/PANDARI-YADAV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Engineering Student | SJB Institute of Technology, Bengaluru  
+📅 Expected Graduation: 2026  
+💼 Aspiring Full-Stack Developer | Passionate about Problem Solving  
+
+---
+
+## 🚀 About Me
+- 🔧 Skilled in building full-stack web applications using **Node.js, Express, MongoDB, EJS, and REST APIs**
+- 💻 Strong grip on **Java, OOP concepts**, and **Data Structures & Algorithms** (320+ problems on LeetCode)
+- 🌍 Experienced in working with APIs like **Mapbox** and **Cloudinary** for real-world features
+- 🌱 Always learning, always building
+
+---
+
+## 🛠️ Notable Project
+- 🔹 **Wanderlust** – A travel booking platform with live maps, reviews, image uploads, secure CRUD, and user authentication (MERN Stack)
+
+---
+
+## 📈 LeetCode Progress
+- 🧩 Solved 320+ DSA problems  
+- 📊 LeetCode Rating: **1450**  
+- 🔗 [Check My Profile](https://leetcode.com/u/PandariYadav/)
+
+---
+
+## 📫 Let’s Connect
+- 🔗 [LinkedIn – Pandari Yadav](https://www.linkedin.com/in/pandari2004)
+- 💼 Looking for internship opportunities in Web Development & Backend Engineering
