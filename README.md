@@ -20,12 +20,11 @@
 - 🔹 **AI-Powered Code Security Analyzer** –  Currently developing a multi-language security analysis tool using CodeBERT and CVE/NVD data to detect source code 
 vulnerabilities and insecure dependencies. The project aims to automate threat modeling, map attack surfaces, and generate 
 actionable security reports through REST API integration
-- 🔹 **Job Application** –• Implemented a robust backend system using Spring Boot and Spring Data JPA to perform full CRUD operations on job 
-listings, including create, update, delete, and keyword-based search functionality. 
-• Integrated PostgreSQL as the database layer and designed RESTful APIs using @RestController, enabling smooth data 
-interaction and consumption from the React frontend.
-🔹 **Airline Management System** – • Developed an airline management app with flight scheduling, booking, passenger management, dynamic pricing, boarding 
-pass generation, and a MySQL database for real-time operations. 
+- 🔹 **Job Application** – Implemented a robust backend system using Spring Boot and Spring Data JPA to perform full CRUD operations on job listings, including create, update, delete, and keyword-based search functionality. 
+• Integrated PostgreSQL as the database layer and designed RESTful APIs using @RestController, enabling smooth data interaction and consumption from the React frontend.
+- 🔹 **Wanderlust** – Developed an airline management app with flight scheduling, booking, passenger management, dynamic pricing, boarding 
+pass generation, and a MySQL database for real-time operations.
+
 
 ---
 
