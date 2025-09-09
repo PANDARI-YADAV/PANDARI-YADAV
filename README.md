@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Pandari Yadav
+# 👋 Hey there, I'm Pandari
 
 🎓 Computer Science Engineering Student | SJB Institute of Technology, Bengaluru  
 📅 Expected Graduation: 2026  
