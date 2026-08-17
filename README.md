@@ -7,11 +7,13 @@
 ---
 
 ## 🚀 About Me
-- 💻 Skilled in **Java**, with strong knowledge of **OOP**, **Data Structures & Algorithms**, and core CS fundamentals
-- 🧰 Experienced with **Java Swing, JDBC, Hibernate, Spring Boot** for building scalable backend and desktop applications
-- 🌐 Proficient in full-stack development using **Node.js, Express.js, MongoDB, EJS**, and REST APIs
-- 🌍 Integrated real-world APIs like **Mapbox** and **Cloudinary** into live projects
-- 🌱 Always learning, building, and sharpening backend logic
+- 💻 Skilled in Java, with strong knowledge of OOP, Data Structures & Algorithms, and core CS fundamentals
+- 🧰 Experienced with JDBC, Hibernate, Spring Boot, and REST APIs for building scalable backend applications
+- 🌐 Proficient in full-stack development using Node.js, Express.js, MongoDB, EJS, and REST APIs
+- 🌍 Integrated real-world APIs like Mapbox and Cloudinary into live projects
+- ⚙️ Familiar with DevOps tools and practices, including Git, GitHub, Docker, Jenkins, CI/CD, AWS, and Terraform
+- 🏗️ Currently exploring System Design, software architecture, and scalable application development
+-🌱 Always learning, building, and sharpening backend and DevOps skills
 
 ---
 
@@ -29,7 +31,7 @@ pass generation, and a MySQL database for real-time operations.
 ---
 
 ## 📈 LeetCode Progress
-- 🧩 Solved 520+ DSA problems  
+- 🧩 Solved 920+ DSA problems  
 - 📊 LeetCode Rating: **1450**  
 - 🔗 [Check My Profile](https://leetcode.com/u/PandariYadav/)
 
